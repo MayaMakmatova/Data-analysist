@@ -1,1 +1,1 @@
-# Data-analysist
+# Data analyst
